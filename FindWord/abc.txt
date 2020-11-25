@@ -1,0 +1,5 @@
+hii
+i am a programmer
+hacker,
+
+ print("\033[0;31;40m Bright Green  \n") ----- color text

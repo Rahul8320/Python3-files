@@ -1,0 +1,14 @@
+
+Did you already watch some hacker film? If yes, I bet you became a
+victim of those hacker scenes. The scene where the hacker type fast in front of
+computer and a black terminal and green font texts will appear. Then after that
+fast typing in the keyboard, the lights in the city will be turned off just like that.
+Well, that’s partially not true because in order to execute that kind of big hack,
+you need a lot of preparation and strategy, not like that in those movie scenes
+that they did it just within few minutes.
+If you are an ethical hacker (good hacker), you must know that there is a
+process that we have to do in order to make the hack successful. Most of the
+time, because most of the system now are being secured, the chance of hacking
+a certain system is decreasing that means you need to put a lot of effort and
+time just to make it. The process that I am talking about will be tackled later on
+within this book, step-by-step.

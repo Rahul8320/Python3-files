@@ -1,0 +1,10 @@
+
+Imagine if I gave a child a stethoscope. That child learn how to use it and
+became an expert in using that kind of tool. However, can we consider him a
+doctor? The answer is no. This is the same in the ethical hacking world. Not
+just because you know how to use hacking tools you can now proclaim
+yourself already a hacker.
+Hacking is all about strategy. It is the creation of strategy of how you
+will use certain resources to your advantage and how you can learn more about
+the target. Tools are just subordinate that can make your life easier but all in all
+you need to think like a hacker in order to be one.
